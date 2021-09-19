@@ -5,7 +5,7 @@
 
 ## Commands
 * cls
-* systeminfo
+* [systeminfo](https://docs.microsoft.com/en-us/sysinternals/)
 * type
 * ipconfig
 * tasklist / [taskkill](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/taskkill)
