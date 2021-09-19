@@ -6,3 +6,4 @@
 ## Commands
 * cls
 * systeminfo
+* ipconfig
