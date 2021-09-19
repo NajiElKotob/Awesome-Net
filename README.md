@@ -6,5 +6,7 @@
 ## Commands
 * cls
 * systeminfo
+* type
 * ipconfig
 * tasklist / [taskkill](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/taskkill)
+* [netstat](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/netstat)
