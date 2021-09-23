@@ -14,3 +14,8 @@
 * ping
 * [nslookup](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup)
 * [tracert](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e)
+
+## Applications
+* Wireshark
+* Nmap ("Network Mapper") 
+* Fiddler 
